@@ -8,6 +8,13 @@ There are many websites that take a while to load his content, with this program
 
 This program uses chrome driver to open a website and then to take snapshot.
 
+# About this C# project
+
+* Console Project Using C#
+* .Net 4.6
+* Selenium Web Driver 3.141.0
+
+
 ## About selenium 
 
 Project URL: <a href="https://www.seleniumhq.org/" target="blank_"> Seleniumhq.orf </a>
