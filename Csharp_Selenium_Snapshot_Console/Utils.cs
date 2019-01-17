@@ -39,7 +39,7 @@ namespace Csharp_Selenium_Snapshot_Console
             string name = string.Empty;
             try
             {
-               name = @"C:\Users\rvargas\Desktop\snapshot\" + file + ".png";
+               name = @"C:\Users\patovega\Desktop\snapshot\" + file + ".png";
             }
             catch (Exception ex)
             {
